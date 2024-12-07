@@ -5,5 +5,5 @@ def get_db_connection():
         host="localhost",
         database="hospital",
         user="postgres",
-        password="g0916032p"
+        password="******"
     )

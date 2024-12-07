@@ -1,4 +1,4 @@
-```markdown
+
 # 🏥 Hospital Management System
 
 A comprehensive and user-friendly management system for hospitals built using Python, PostgreSQL, and Streamlit.

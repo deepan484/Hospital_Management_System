@@ -1,5 +1,3 @@
-I'll create a comprehensive README.md file that includes all the details you previously shared:
-
 ```markdown
 # 🏥 Hospital Management System
 

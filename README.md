@@ -119,6 +119,3 @@ streamlit run app.py
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-This comprehensive README includes all the previous information you shared, organized into clear, visually appealing sections. It covers features, technology stack, setup instructions, screenshots, potential enhancements, and additional project details. Feel free to customize the contact, license, and other sections as needed.
